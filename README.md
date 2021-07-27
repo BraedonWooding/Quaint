@@ -24,7 +24,7 @@ Currently you can;
 
 The uml is here; [UML](Quaint.pdf) (it's quite large).
 
-But a simpler uml is below, this overly trivialises certain relationships but is a rough grasp at how everything relates to each other.
+But a simpler uml is below, this overly trivialises certain relationships but is a rough grasp at how everything relates to each other.  It was drawn by a fellow course admin Nick Patrikeos.
 
 ![simplified version of the UML diagram](QuaintSimple.png)
 
